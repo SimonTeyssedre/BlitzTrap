@@ -1,0 +1,20 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+*.Rproj
+
+# Environment
+.Renviron
+.env
+
+# Shiny
+rsconnect/
+
+# OS
+.DS_Store
+Thumbs.db
